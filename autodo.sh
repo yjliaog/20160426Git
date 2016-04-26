@@ -4,3 +4,4 @@ ls  >>list.txt
 ls -a>>list.txt
 autodo.sh(END)
 another change after github
+new change 
